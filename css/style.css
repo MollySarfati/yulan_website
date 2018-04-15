@@ -1,0 +1,170 @@
+.row,p,h1,h2,h3{
+	margin: 0;
+}
+
+img{
+	margin: auto;
+}
+
+.tac{
+	text-align: center;
+}
+
+.cb{
+	clear: both;
+}
+
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.bo{
+	font-weight: 700;
+}
+
+.tar{
+	text-align: right;
+}
+
+.header{
+	background-image: url('../images/headerback.jpg');
+	background-size: cover;
+	padding: 3% 0;
+	background-position: center;
+}
+
+.header h1{
+	font-size: 2.2em;
+	color: #f1f4f5;
+}
+
+.boxes img{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+.bluebox{
+	width: 100%;
+	padding: 30px;
+	background-color: #374958;
+	margin-bottom: 30px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.parlez{
+	color: #f7941d !important;
+	font-weight: 400; 
+}
+
+.wh{
+	color: white;
+}
+
+p{
+	font-size: 16px;
+}
+
+label{
+	color: rgb(152, 171, 186);
+	font-weight: 700;
+	font-size: 16px;
+}
+
+form input, form select{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0px 0px 10px rgba(249,127,53,0.7);
+	-moz-box-shadow: 0px 0px 10px rgba(249,127,53,0.7);
+	box-shadow: 0px 0px 10px rgba(249,127,53,0.7);
+	border: 0;
+	margin-bottom: 20px;
+}
+
+.consult{
+	width: 100%;
+	min-height: 60px;
+	background-color: #f7941d;
+	border-color: transparent;
+	font-family: "Lato",sans-serif;
+	font-size: 2em;
+	color: white;
+	font-weight: 900;
+	text-shadow: 0px 1px 2px rgba(0,0,0,0.75);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.whiteback{
+	background: white;
+	padding: 3% 0;
+}
+
+.clients img{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.address{
+	line-height: 1.3em;
+}
+
+.fsi{
+	font-style: italic;
+	color: #5b847f;
+}
+
+.greenback{
+	background: #0BA14B;
+}
+
+.boxes h2{
+	color: white;
+	padding-bottom: 5px;
+	font-size: 28px;
+}
+
+.boxes img{
+	/*background: white;*/
+	padding: 10px;
+	margin-top: -10%;
+}
+
+.wb{
+	background: white;
+	padding: 10px;
+}
+
+.wb p{
+
+	font-size: 12px;
+}
+
+.boxes .col-sm-6{
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+
+.yellowback{
+	background: #FFC520;
+}
+
+.marback{
+	background: #F26522;
+}
+
+.blueback{
+	background: #0F75BC;
+}
