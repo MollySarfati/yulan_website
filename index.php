@@ -71,10 +71,6 @@ if ( !empty($_GET) AND $_GET['thanks'] == '1') {
 						</div>
 					</div>
 				</div> <br>
-        <div class="row">
-        <button onclick="location.href = '/site/nos-services';" class="consult" style="border-color: rgba(0, 0, 0, 0); background-color: deepskyblue;">Découvrez tous nos services</button>
-        <!-- <a class="consult" style="border-color: rgba(0, 0, 0, 0); background-color: deepskyblue;" href="">Decouvrir tous nos services</a> -->
-        </div>
 				<!-- <div class="row boxes">
 					<div class="col-sm-6"><img src="images/stratigie.png" class="img-responsive" alt=""></div>
 					<div class="col-sm-6"><img src="images/ecommerce.png" class="img-responsive" alt=""></div>
